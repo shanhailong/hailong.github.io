@@ -13,7 +13,7 @@ defaults:
       path: "assets/img"
     values:
       image: true
-
+remote_theme: showzeng/Minimalism
 title: Minimalism
 name: minimalism
 description: Minimalism is a jekyll theme for minimalist
